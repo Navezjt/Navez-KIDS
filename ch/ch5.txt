@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Barbie Français | Kids TV |  |
+Barbie Français | Kids TV |  | 
 https://www.youtube.com/channel/UCgMuh0GiItMVbIA8Qb4WAUA/live
