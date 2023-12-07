@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Zorro y Pollo | Kids TV |  |
-https://www.youtube.com/channel/UCV88Z4-0NLdG4HLDdoCnDZA
+https://www.youtube.com/channel/UCV88Z4-0NLdG4HLDdoCnDZA/live
