@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 jobs:
   build:
-    runs-on: ubuntu
+    runs-on: ubuntu-18.04
     steps:
     - name: Install youtube-dl
       run: |
