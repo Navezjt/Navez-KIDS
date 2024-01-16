@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/catsfamilyenfrancais.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1705453663/ei/_9OmZauPLLfMsfIPi8W_wAI/ip/20.172.5.93/id/GNtCPMepv34.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-a5meknzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_K9cWd2K1L-j0fkoH6jo0pH26hpHt3_GtQZd6ugHUo/vprv/1/playlist_type/DVR/mh/HL/mm/44/mn/sn-a5meknzr/ms/lva/mv/u/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1705431225/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKdlQ3ATTIlseBHiDd1FPxt4kC-HmO_En_V4C0pXV6KzAiAp1cglJDnIXnX67Nr7Hx6zzia0a9aH_EW3iue7IwDgrg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIga7cku7hcOMROaWlrPRX1Bzyv8uEYvBzcVIBTjDOgqZkCIQCgDpf2ht6phA3vsWa1KT-GPxyQqMSdi8TthXxGiL305A%3D%3D/playlist/index.m3u8
