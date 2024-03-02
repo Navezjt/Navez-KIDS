@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/dodobee-babykids.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709399342/ei/zgjjZYKeD9Gdlu8PzuWAoAE/ip/172.183.88.182/id/PCe_u7xerrY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-vgqsrnz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/UWF9f3fuQ25BPXn7ez8u93wXNZJHFO2u1rT9Bc5zO8ihmqU/vprv/1/playlist_type/LIVE/mh/iT/mm/44/mn/sn-vgqsrnz7/ms/lva/mv/u/mvi/2/pl/15/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1709376591/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,spc,vprv,playlist_type/sig/AJfQdSswRQIgNyLACTPYALuSccE7SeJQeiNBw8vsMeKlm1aSaoe5YtkCIQClv0J2CO6HglBkxvqeRRpI2VmRz4ZTZ_C2dtc9aHVOeg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIhAPouQH3_JGUu_uWlfvNte3ecNhEy084WOiL3ok_4PhWaAiBkBw4hjrd8fLWIwFkoZwzbKjfPzm_mEEpeocbhvJe_WA%3D%3D/playlist/index.m3u8
