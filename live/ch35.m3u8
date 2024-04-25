@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/cartoonnetwork.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714072127/ei/31UqZufDH8iysfIPusGxmAI/ip/13.91.69.160/id/TgSBpZ32YK4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-a5mlrnll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/UWF9f4c9Sb29LT_cpN0bFBz_3Ai3iGjViZ5Vw8_Wjfo99jXy7QUir4b7SIqi/vprv/1/playlist_type/DVR/mh/ZA/mm/44/mn/sn-a5mlrnll/ms/lva/mv/u/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/mt/1714049936/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRgIhANue83SnDs7hG92WfzALawOSSQ30SXWG5xTsiwsmBUABAiEA4093kGVLWaWkBqYqAVuQG_LOp3fG-1hla4qt4oh_83I%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgI_fCmlgB_--A6WqqgzzgW1s6zeTRrWtFzvVZ5o-wALwCIFGRewjeMYAj2rURW9p34YXENvmpdsUBEKKpeCf-YUDr/playlist/index.m3u8
