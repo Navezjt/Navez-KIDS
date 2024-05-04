@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714817521/ei/kbU1ZoHXGbjasfIPnvOR-AM/ip/13.86.227.243/id/S1sQZsZOjlQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-a5msenle.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f9snlnz7Tq1285_Wt3WyhrRYcW8hsVXfsKN2yP6RHyo_aN89kBhDu4qt/vprv/1/playlist_type/DVR/mh/Jl/mm/44/mn/sn-a5msenle/ms/lva/mv/u/mvi/2/pl/19/dover/11/pacing/0/keepalive/yes/mt/1714794605/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMClcPQDEgYdOIHiC1ff8AEBzsskZ_mdkbDxaqS-G9uTAiB-J3I59YYxGG7J-6JX9QTK5zJX44Q1Z7jIm_URR1DD8Q%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAIIR9VDO1-EwOMZIpWhQMm57VCIg3B9C5gCPIw1f7qxUAiEA1ah-VQLXs5CN-TNq2uKQzg2kswj3-kehrYL5nkHBTlc%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/talkingfriendsfrance.m3u8
