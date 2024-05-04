@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/tamtamtv.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714817554/ei/srU1ZsjoLNDSsfIP-I6c0Ac/ip/13.86.227.243/id/8rCqpSZuBMA.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-a5meknzl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Vy/mm/44/mn/sn-a5meknzl/ms/lva/mv/u/mvi/1/pl/19/dover/11/pacing/0/keepalive/yes/mt/1714794605/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgUrhmWVUmZEULGqfUfdsu9YVvYBrCvyzNlCF5gOrxGWoCID1cE2SkgY9kpipvpkREWK47pjSlLaBapkUThoiQ5nFC/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgKj96LGpsnLLvWScPAhn75-5JdQ5_PK-8CuZ3bteSW9QCIQD_J0FzkIwIJOMObTSaqKeR0cPf-J0hofHnU6iCcdwjGg%3D%3D/playlist/index.m3u8
