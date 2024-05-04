@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714860675/ei/I142ZouIAZCZkucPvsG-0Ao/ip/20.55.118.240/id/7y3f715dJDI.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqskn66.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/us/spc/UWF9f--VqU9tnTNNJfI2Nta1VGipXhE6qelIkYIFCcQzNjKLKgR1lxUzLLJL/vprv/1/playlist_type/DVR/mh/Lj/mm/44/mn/sn-vgqskn66/ms/lva/mv/u/mvi/4/pl/23/dover/11/pacing/0/keepalive/yes/mt/1714838395/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AJfQdSswRQIgDl9AihY4YjHN7bR5KjbjLBKAI3e94ZWw36ZI2-h0T8YCIQC_TI_k_aK_UZ0gYZDlLKaLajglj2UTBK8o3duBuJf44w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgF6nWE0jf1_5EkDWHrG27MHQMWBlMsAN2eTP8yz0D3gMCIBSPzlzHMrBGC6OGSnZTkOwCluFzMzNWUgeAzP-8AVFb/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/disneyjunior.m3u8
