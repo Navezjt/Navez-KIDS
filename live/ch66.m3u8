@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/dodobee.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714936191/ei/H4U3ZvCgNpqekucP16aegAc/ip/20.51.159.39/id/bmRRyG9268w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-p5qs7nzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/vprv/1/playlist_type/LIVE/mh/wM/mm/44/mn/sn-p5qs7nzk/ms/lva/mv/u/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/mt/1714911959/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,vprv,playlist_type/sig/AJfQdSswRAIgTAO_IpmZK0z-l3wkkFAYePdCuLzx6asB9T6ejfRAnegCIFGSBYpFCoq3ObQuzO5R6UUWMNoidUtRaCNPsFJDpJBm/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgFRFKSgHO21A0yvMqW-ZKQSC0s6CTWJndaaM48qs2Hj4CIGkfXKtuN9MZHRmnYzGI2TAs4J9HBoXCCD3Oxf_5rqhA/playlist/index.m3u8
