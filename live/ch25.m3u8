@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715008270/ei/rp44ZojaOb6Ty_sP1oC86Ac/ip/20.97.191.177/id/aHxcusEcLPE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-p5qs7nsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f8iimx__9vM2wUVfk3YVJaP2AyJfNGOS2HYPmtfLZztvhAQpL7pOBfJF/vprv/1/playlist_type/DVR/mh/8n/mm/44/mn/sn-p5qs7nsr/ms/lva/mv/u/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/mt/1714986361/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIQKhkQHtoKsEASNLIfdYM1wYBMUVX_HcuS5WA6d0SVfAiEA72OFy34qvaZPA7v90i_EO_z0fXaCt-9u_LcEZW1Bz8Y%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgBzL3YYOMqjaaxUhcXHtKJuhAPkYLVvX9pT2CPikYDboCICN7J7s_PhpH9jQCV1UIHaU1iMX9M-DTa3cEQbhrDSRN/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/peppapigfrancaisofficielle.m3u8
