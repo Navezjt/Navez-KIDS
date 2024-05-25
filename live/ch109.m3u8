@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716625436/ei/vEtRZrv9MrazkucP69i_sAw/ip/20.42.106.66/id/o8axf8vJ0bw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-p5qlsndk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f6TdO44AsdcuMNsm0YKyuwa45O2qE7AQGjgXKJ-7QLt0yvu-eW5llnbgpjM/vprv/1/playlist_type/DVR/mh/pg/mm/44/mn/sn-p5qlsndk/ms/lva/mv/u/mvi/3/pl/17/dover/11/pacing/0/keepalive/yes/mt/1716603642/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPcu86twEFPaJ1BjHxmm5LbNAa86lnsKUtxRJLjCtfc2AiEA0Wd528aJEK4ULijyMEz4oIL2UNpAqeYcQ-4soHwjv-U%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgCfQEHItsC71Ku2QQZbtKJ3plrDMl89mQShHR41CDy6wCIEfNbPCVKxFD8DcQWKFY9ACCs-e1EX4m9Ah8lXJOSHhK/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/youtube-iptv/main/assets/offlintv.m3u8
