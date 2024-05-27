@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/simsemtv.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716826252/ei/LFxUZogdgomS5w-4go7ABA/ip/20.55.213.81/id/gJCTnfGrOOQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-p5qlsn7s.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/r-/mm/44/mn/sn-p5qlsn7s/ms/lva/mv/u/mvi/3/pl/22/dover/11/pacing/0/keepalive/yes/mt/1716804289/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgHSjgo-OD_J29NidOW8lM3Xvh6fccQXYXqZnsOkZ93t4CIDtTHqDuInegiOweG_6nLQ4ih5hpXvinA4VYleqgTumG/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAPqwpULRJrl5n83SGDcp6md_VR7EAV3vW58p0ZGm2Wq5AiEA5gLJLOrtBKULMVTClFrgjybj8p-0W-B88UkKs7EsI9Y%3D/playlist/index.m3u8
