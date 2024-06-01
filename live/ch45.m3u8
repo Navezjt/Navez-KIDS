@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717247341/ei/DclaZvaEBsezkucPw-G1KA/ip/20.81.159.129/id/B97g3EmGUkg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-p5qs7nsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_LuQFvkGo0jdZPV-ldg_S6K-OF1AtCdEkXMZAqRdQpkJJK0Y7lZ9Iqvahg/vprv/1/playlist_type/DVR/mh/l3/mm/44/mn/sn-p5qs7nsr/ms/lva/mv/u/mvi/2/pl/17/dover/11/pacing/0/keepalive/yes/mt/1717224890/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgf-324o7F8cOMUVSEe3EqeiTZ-GT-sstd6pmd39N2TmwCIExqFALgwdyc2o3QifRaQLS436PMKQkCNZnUkcqdOX3F/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgRfQZsw26iAqmGp2Wh0B7YriRrRNqexwyYuzTUwceLYkCIQDYTg04oxz-tNzH6VlyicvjJvLr0WV-1v7_s8qMn-iGmQ%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/mayaandmary.m3u8
