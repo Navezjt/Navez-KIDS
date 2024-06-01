@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717279871/ei/H0hbZv_pJ7GpkucPwsumoA0/ip/20.55.213.82/id/DH4bHExu3O8.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-p5qlsn7d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_RN62AeD222v6WJuEAQDQQP7OOY2Is9YhQEIJyITVtz4FQsR5rf9PkLHUk/vprv/1/playlist_type/DVR/mh/zZ/mm/44/mn/sn-p5qlsn7d/ms/lva/mv/u/mvi/2/pl/22/dover/11/pacing/0/keepalive/yes/mt/1717257843/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJvSOvhJJixJFMc7D12EJDM9zteZYjDE_X5542xIMSIrAiAzv2YNZ12rvWIzwDmI4sMepvRtWexw33_EmgosXCYdzA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAMWy_obff33UtoAgbGIm3OJenWiIsMVE4uc5x_5zPiq_AiEAxr9qaheV0tGYoU-1Kb8X5GhVByejozupXHDm-7fSyXQ%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/osratouna.m3u8
