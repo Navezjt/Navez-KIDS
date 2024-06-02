@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/bebefinn-nursery-rhymes-kids-songs.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717348169/ei/6VJcZrMH3cOx8g_2y7XYDw/ip/52.238.29.193/id/6ma2EXweJF4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-q4flrn7k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fzktVQ8AzILSjGNgdmCTA2MsrWI9zos6qmWF0iwtBar7Wzc59zjxfW7vt-k/vprv/1/playlist_type/DVR/mh/h1/mm/44/mn/sn-q4flrn7k/ms/lva/mv/u/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/mt/1717325999/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgL0pqo1xALCAmFDQMcDIUevLKO2QpaUMqRGABk03PHSsCIDvdS5gE9P6HGIEU5QRKKMUbgclzjLBWSaNieRpksbsJ/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRAIgNrqVXnzozdpqoWBa4J2xvEKFCqFkB7cfYKCvnqJLtp0CIH6lJIKwV-NTjuS6-uDyHFM6EevBOUKEfM82sDl4Yp6Z/playlist/index.m3u8
