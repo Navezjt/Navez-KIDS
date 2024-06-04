@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/Leoncitoalado.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717506638/ei/7r1eZtOLOvuTkucP3ey-2Ac/ip/20.102.46.240/id/Je0vBQv1zXs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-p5qs7nzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7uqW8n88jE7SA1YOkZ48co513cVozkLpuyabazfUKhGmSpfzVf-qiTqxzs/vprv/1/playlist_type/DVR/mh/7Y/mm/44/mn/sn-p5qs7nzr/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/mt/1717483862/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgaP-lkrpITxHEjIYGsxE9ScjpXHb6gMrx0YVXT-sE7tMCIQDcTv9eYaq1Lx3FQajvDpqqW56vVZZ0AemdIpP-9fxPgQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAI3_J8RPwoLFONchcmo6RU3cPhYazsywW4yjUWguMTaUAiEAggl8cP9WIhYmrxk8Ph2QQwaPmZQuh_RwclMVfuB11bE%3D/playlist/index.m3u8
