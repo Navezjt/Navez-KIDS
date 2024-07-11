@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720746561/ei/4S2QZty3JaOLkucPjvGCwAM/ip/20.51.198.169/id/JECdEFC-9_c.2/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qs7n6d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAY6867hrwrev3Uql7T9VsST3d4VOA6XwOY_ASMD78IrXxUdP20FowkPWCoU/vprv/1/playlist_type/DVR/mh/2k/mm/44/mn/sn-p5qs7n6d/ms/lva/mv/u/mvi/4/pl/22/dover/11/pacing/0/keepalive/yes/mt/1720723969/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgOjmpBrawH52U9b5AY01XHr80Ujqv0meeWnYStOZcOIsCIQCY1oFqmgmgCap7CnfEACRaJH9gXu5jnkSqmHSJn4Iojg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIgaeQtW5HCU0XeJg55Xhlb3r8zBBQ6EZCd9XB6yD9-5TICIQDKMsz_qnGFXgPo5GuRlLtq593mWcLC7decHdamGWueOA%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/nickelodeonbahasa.m3u8
