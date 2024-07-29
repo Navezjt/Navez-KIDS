@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/MassinDV/videos/main/kids/clevercarstv.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1722316212/ei/VCGoZpnYA-uLkucPzLiV-Ac/ip/40.76.181.120/id/4MGd33U6tvU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-vgqsknzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAaQ3zk3LxL2b6-gr-TL3Xi73n9FrG3c7q0BaNpPDT9orkkShj8E59ey3Hlo/vprv/1/playlist_type/DVR/mh/8q/mm/44/mn/sn-vgqsknzs/ms/lva/mv/u/mvi/2/pl/24/dover/11/pacing/0/keepalive/yes/mt/1722293802/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAO7-ga2NVvQkV2N7C8lK4XxJb9UJHmRffGefimdlqwkYAiEAh4okGHFFuxTdWCrau48c6QUfmUkPEjH_Bhz9zvOYjZE%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIgFRdNNPUhe78SmW5Lh3nsRUWM_xNhPvneCWTkDVGRaXACIQDA-GKJDWMPfeJGEnN_J1fVz03GM6fk4JnvvOoY0CiIoA%3D%3D/playlist/index.m3u8
