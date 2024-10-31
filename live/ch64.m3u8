@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1730402472/ei/SIQjZ_CHKcWVir4P_Pyy-Q8/ip/172.183.52.204/id/PXS7fJPYWW8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsknz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/qtApAWSI7eHusm3dI1AFAFfvwwrwTI6NnQjabtrrFRqjnRP4AS14V11mfiBSfxs/vprv/1/playlist_type/LIVE/met/1730380873,/mh/k4/mm/44/mn/sn-vgqsknz7/ms/lva/mv/u/mvi/5/pl/15/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51312688,51326932/mt/1730379619/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIrs8eS8v5q0zW2SyZVrbkzQmudHIo2NPwnwOtBODNVvAiEAnIB9CUQWyabLjNaiBkwQCmcrgCwJquZEoDJqErN1-KE%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACJ0pHgwRgIhAI4IApO_ZbCWNmvvIoWveEY1zjiQZ2plSN3i35APsjYbAiEA51kwUb9xYfvydQ74zmdBv6ncxIbRbsiXNUS_OsnqZis%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/MassinDV/videos/main/kids/Bebefinn_Spanish.m3u8
